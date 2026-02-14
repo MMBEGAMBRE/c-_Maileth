@@ -34,7 +34,7 @@
             Console.WriteLine("perimetro: " + perimetro);
 
 
-          
+
 
         }
     }
