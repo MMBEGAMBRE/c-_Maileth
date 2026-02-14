@@ -1,0 +1,15 @@
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\bin\Debug\net10.0\retosDeOperadores.exe
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\bin\Debug\net10.0\retosDeOperadores.deps.json
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\bin\Debug\net10.0\retosDeOperadores.runtimeconfig.json
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\bin\Debug\net10.0\retosDeOperadores.dll
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\bin\Debug\net10.0\retosDeOperadores.pdb
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\retosDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\retosDeOperadores.AssemblyInfoInputs.cache
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\retosDeOperadores.AssemblyInfo.cs
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\retosDeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\retosDeOperadores.sourcelink.json
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\retosDeOperadores.dll
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\refint\retosDeOperadores.dll
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\retosDeOperadores.pdb
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\retosDeOperadores.genruntimeconfig.cache
+C:\Users\panes\OneDrive\Desktop\proyecto_maileth\retosDeOperadores\obj\Debug\net10.0\ref\retosDeOperadores.dll

@@ -2,5 +2,6 @@
   <Folder Name="/Elementos de la solución/">
     <File Path=".gitignore" />
   </Folder>
+  <Project Path="../retosDeOperadores/retosDeOperadores.csproj" />
   <Project Path="retoTiposDeDatos.csproj" />
 </Solution>
